@@ -1,0 +1,46 @@
+,match Date,Match Location,Team-1,Team-2,Result
+0,"Sun, 16 Oct","1st Match, First Round Group A (D/N), Geelong, October 16, 2022, ICC Men's T20 World Cup",Namibia,Sri Lanka,Namibia won by 55 runs
+1,,"2nd Match, First Round Group A (N), Geelong, October 16, 2022, ICC Men's T20 World Cup",United Arab Emirates,Netherlands,Netherlands won by 3 wickets (with 1 ball remaining)
+2,"Mon, 17 Oct","3rd Match, First Round Group B (D/N), Hobart, October 17, 2022, ICC Men's T20 World Cup",Scotland,West Indies,Scotland won by 42 runs
+3,,"4th Match, First Round Group B (N), Hobart, October 17, 2022, ICC Men's T20 World Cup",Zimbabwe,Ireland,Zimbabwe won by 31 runs
+4,"Tue, 18 Oct","5th Match, First Round Group A (D/N), Geelong, October 18, 2022, ICC Men's T20 World Cup",Namibia,Netherlands,Netherlands won by 5 wickets (with 3 balls remaining)
+5,,"6th Match, First Round Group A (N), Geelong, October 18, 2022, ICC Men's T20 World Cup",Sri Lanka,United Arab Emirates,Sri Lanka won by 79 runs
+6,"Wed, 19 Oct","7th Match, First Round Group B (D/N), Hobart, October 19, 2022, ICC Men's T20 World Cup",Scotland,Ireland,Ireland won by 6 wickets (with 6 balls remaining)
+7,,"8th Match, First Round Group B (N), Hobart, October 19, 2022, ICC Men's T20 World Cup",West Indies,Zimbabwe,West Indies won by 31 runs
+8,"Thu, 20 Oct","9th Match, First Round Group A (D/N), Geelong, October 20, 2022, ICC Men's T20 World Cup",Sri Lanka,Netherlands,Sri Lanka won by 16 runs
+9,,"10th Match, First Round Group A (N), Geelong, October 20, 2022, ICC Men's T20 World Cup",United Arab Emirates,Namibia,U.A.E. won by 7 runs
+10,"Fri, 21 Oct","11th Match, First Round Group B (D/N), Hobart, October 21, 2022, ICC Men's T20 World Cup",West Indies,Ireland,Ireland won by 9 wickets (with 15 balls remaining)
+11,,"12th Match, First Round Group B (N), Hobart, October 21, 2022, ICC Men's T20 World Cup",Scotland,Zimbabwe,Zimbabwe won by 5 wickets (with 9 balls remaining)
+12,"Sat, 22 Oct","13th Match, Group 1 (N), Sydney, October 22, 2022, ICC Men's T20 World Cup",New Zealand,Australia,New Zealand won by 89 runs
+13,,"14th Match, Group 1 (N), Perth, October 22, 2022, ICC Men's T20 World Cup",Afghanistan,England,England won by 5 wickets (with 11 balls remaining)
+14,"Sun, 23 Oct","15th Match, Group 1 (D/N), Hobart, October 23, 2022, ICC Men's T20 World Cup",Ireland,Sri Lanka,Sri Lanka won by 9 wickets (with 30 balls remaining)
+15,,"16th Match, Group 2 (N), Melbourne, October 23, 2022, ICC Men's T20 World Cup",Pakistan,India,India won by 4 wickets (with 0 balls remaining)
+16,"Mon, 24 Oct","17th Match, Group 2 (D/N), Hobart, October 24, 2022, ICC Men's T20 World Cup",Bangladesh,Netherlands,Bangladesh won by 9 runs
+17,,"18th Match, Group 2 (N), Hobart, October 24, 2022, ICC Men's T20 World Cup",Zimbabwe,South Africa,No result
+18,"Tue, 25 Oct","19th Match, Group 1 (N), Perth, October 25, 2022, ICC Men's T20 World Cup",Sri Lanka,Australia,Australia won by 7 wickets (with 21 balls remaining)
+19,"Wed, 26 Oct","20th Match, Group 1 (D/N), Melbourne, October 26, 2022, ICC Men's T20 World Cup",Ireland,England,Ireland won by 5 runs (D/L method)
+20,,"21st Match, Group 1 (N), Melbourne, October 26, 2022, ICC Men's T20 World Cup",Afghanistan,New Zealand,Match abandoned without a ball bowled
+21,"Thu, 27 Oct","22nd Match, Group 2 (D/N), Sydney, October 27, 2022, ICC Men's T20 World Cup",South Africa,Bangladesh,South Africa won by 104 runs
+22,,"23rd Match, Group 2 (N), Sydney, October 27, 2022, ICC Men's T20 World Cup",India,Netherlands,India won by 56 runs
+23,,"24th Match, Group 2 (N), Perth, October 27, 2022, ICC Men's T20 World Cup",Zimbabwe,Pakistan,Zimbabwe won by 1 run
+24,"Fri, 28 Oct","25th Match, Group 1 (D/N), Melbourne, October 28, 2022, ICC Men's T20 World Cup",Afghanistan,Ireland,Match abandoned without a ball bowled
+25,,"26th Match, Group 1 (N), Melbourne, October 28, 2022, ICC Men's T20 World Cup",Australia,England,Match abandoned without a ball bowled
+26,"Sat, 29 Oct","27th Match, Group 1 (N), Sydney, October 29, 2022, ICC Men's T20 World Cup",New Zealand,Sri Lanka,New Zealand won by 65 runs
+27,"Sun, 30 Oct","28th Match, Group 2, Brisbane, October 30, 2022, ICC Men's T20 World Cup",Bangladesh,Zimbabwe,Match yet to begin
+28,,"29th Match, Group 2 (D/N), Perth, October 30, 2022, ICC Men's T20 World Cup",Netherlands,Pakistan,Match yet to begin
+29,,"30th Match, Group 2 (N), Perth, October 30, 2022, ICC Men's T20 World Cup",India,South Africa,Match yet to begin
+30,"Mon, 31 Oct","31st Match, Group 1 (N), Brisbane, October 31, 2022, ICC Men's T20 World Cup",Australia,Ireland,Match yet to begin
+31,"Tue, 01 Nov","32nd Match, Group 1, Brisbane, November 01, 2022, ICC Men's T20 World Cup",Afghanistan,Sri Lanka,Match yet to begin
+32,,"33rd Match, Group 1 (N), Brisbane, November 01, 2022, ICC Men's T20 World Cup",England,New Zealand,Match yet to begin
+33,"Wed, 02 Nov","34th Match, Group 2, Adelaide, November 02, 2022, ICC Men's T20 World Cup",Netherlands,Zimbabwe,Match yet to begin
+34,,"35th Match, Group 2 (N), Adelaide, November 02, 2022, ICC Men's T20 World Cup",Bangladesh,India,Match yet to begin
+35,"Thu, 03 Nov","36th Match, Group 2 (N), Sydney, November 03, 2022, ICC Men's T20 World Cup",Pakistan,South Africa,Match yet to begin
+36,"Fri, 04 Nov","37th Match, Group 1, Adelaide, November 04, 2022, ICC Men's T20 World Cup",Ireland,New Zealand,Match yet to begin
+37,,"38th Match, Group 1 (N), Adelaide, November 04, 2022, ICC Men's T20 World Cup",Australia,Afghanistan,Match yet to begin
+38,"Sat, 05 Nov","39th Match, Group 1 (N), Sydney, November 05, 2022, ICC Men's T20 World Cup",England,Sri Lanka,Match yet to begin
+39,"Sun, 06 Nov","40th Match, Group 2, Adelaide, November 06, 2022, ICC Men's T20 World Cup",Netherlands,South Africa,Match yet to begin
+40,,"41st Match, Group 2, Adelaide, November 06, 2022, ICC Men's T20 World Cup",Bangladesh,Pakistan,Match yet to begin
+41,,"42nd Match, Group 2 (N), Melbourne, November 06, 2022, ICC Men's T20 World Cup",India,Zimbabwe,Match yet to begin
+42,"Wed, 09 Nov","1st Semi-Final (N), Sydney, November 09, 2022, ICC Men's T20 World Cup",TBA,TBA,Match yet to begin
+43,"Thu, 10 Nov","2nd Semi-Final (N), Adelaide, November 10, 2022, ICC Men's T20 World Cup",TBA,TBA,Match yet to begin
+44,"Sun, 13 Nov","Final (N), Melbourne, November 13, 2022, ICC Men's T20 World Cup",TBA,TBA,Match yet to begin
